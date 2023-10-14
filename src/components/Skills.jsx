@@ -6,6 +6,7 @@ import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import GitHub from '../assets/github.png';
 import Mongo from '../assets/mongo.png';
+import Node from '../assets/node.png';
 
 const Skills = () => {
   return (
